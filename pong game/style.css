@@ -1,0 +1,14 @@
+html {
+    background-image: url('wp4312403.webp');
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+}
+
+#gameCanvas {
+    padding: 70px;
+}
